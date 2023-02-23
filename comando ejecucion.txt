@@ -1,0 +1,1 @@
+C:\Users\rD\Desktop\RefactorChessMaster-master\Ajedrez\src>sonar-scanner.bat -D"sonar.projectKey=Ajedrez1" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=sqp_a1653f2616071c7aa2e6bdee01e3e8aac2135e0e" -D"sonar.java.binaries=."
